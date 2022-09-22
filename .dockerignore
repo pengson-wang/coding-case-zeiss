@@ -1,0 +1,7 @@
+*.log
+*.error
+.vscode
+.prettierrc
+.gitignore
+.next
+node_modules
